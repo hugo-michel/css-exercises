@@ -1,0 +1,17 @@
+.p-odd {
+    background-color: pink;
+}
+
+#div2 {
+    color: blue;
+    font-size: 32px;
+}
+
+#div4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
